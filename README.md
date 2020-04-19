@@ -4,7 +4,7 @@ Feedback / Suggestion : saikat.sinharay@gmail.com
 ### Explanation
 https://www.youtube.com/watch?v=mFY0J5W8Udk
 
-### Core Solution :
+### Core Solutions :
 [Python (chaining)](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/hashTable.py)
 
 [CPP (chaining)](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/hashTable.cpp)
