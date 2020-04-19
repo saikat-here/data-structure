@@ -1,6 +1,6 @@
 Feedback / Suggestion : saikat.sinharay@gmail.com
 
-# Hash Table
+# 1. Hash Table
 ### Explanation
 https://www.youtube.com/watch?v=mFY0J5W8Udk
 
