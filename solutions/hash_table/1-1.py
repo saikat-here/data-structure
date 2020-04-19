@@ -23,7 +23,7 @@ class hash_table_class(object):
 			
 			self.hash_table[hash_value]=char_from_string
 
-		# Control rechaed here means there is no duplicate chars
+		# Control reached here means there is no duplicate char
 		print("All character are unique")
 
 print("Please enter the ASCII string")
