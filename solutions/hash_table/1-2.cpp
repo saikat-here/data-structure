@@ -1,6 +1,6 @@
 /*
 Problem Number 1.2
-Problem : Givem two string, decide if one is a permutation of the other one.
+Problem : Given two string, decide if one is a permutation of the other one.
 */
 
 #include <iostream>
