@@ -26,3 +26,6 @@ https://www.youtube.com/watch?v=mFY0J5W8Udk
 
 [Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-4.py)
 
+[CPP Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-4.cpp)
+
+
