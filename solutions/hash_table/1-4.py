@@ -1,6 +1,7 @@
 """
 Problem Number 1.4
 Problem : Given a string, write an alogorithm to check if it is a permutation of palindrome. A permutation is a rearrangement of letters. The palindromedoes not need to be a dictionary words.
+Logic : Count the occurrence of the chars of the string. The count should be even other than one char (uptoo 1 char can be odd)
 """
 
 import array
