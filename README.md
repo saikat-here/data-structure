@@ -21,3 +21,8 @@ https://www.youtube.com/watch?v=mFY0J5W8Udk
 [Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-2.py)
 
 [CPP Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-2.cpp)
+
+#### 1.4: Given a string, write an alogorithm to check if it is a permutation of palindrome. A permutation is a rearrangement of letters. The palindromedoes not need to be a dictionary words.
+
+[Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-4.py)
+
