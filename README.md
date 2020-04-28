@@ -28,4 +28,8 @@ https://www.youtube.com/watch?v=mFY0J5W8Udk
 
 [CPP Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-4.cpp)
 
+#### 1.5: Given two strings, write an algo to check if they are one edit (insert, remove, replace) away.
+
+[Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-5.py)
+
 
