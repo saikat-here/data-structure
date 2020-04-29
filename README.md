@@ -34,4 +34,6 @@ https://www.youtube.com/watch?v=mFY0J5W8Udk
 
 [CPP Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-5.cpp)
 
+#### 1.6: Implement a method to perform basic string compression using the counts of repeated characters. String aabcccccaaa would became a2b1c5a3. If the compressed string would not became smaller than the original string then it should return the original string. You can assume the string has only uppercase and lower case letters.
 
+[CPP Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-6.cpp)
