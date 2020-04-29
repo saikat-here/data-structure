@@ -28,22 +28,17 @@ class StringCompress
 					count = 0;
 					tempString = "";
 					StringLength = StringLength + 2;
-
 				}
 
-				 
 				if (compressedString.size() > s1.size())
 				{
-					cout << "\nString : "+ s1;
+					cout << "\nString : " + s1;
 					return;
 				}
-				 
 			}
-
 			cout << "\nString : "+compressedString;
 		}
 };
-
 
 int main()
 {
@@ -55,5 +50,4 @@ int main()
 	StringCompress SC;
 
 	SC.compress(s1);
-
 }
