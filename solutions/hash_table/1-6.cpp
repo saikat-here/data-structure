@@ -14,7 +14,7 @@ class StringCompress
 	public:
 		void compress(string s1)
 		{
-			int count = 0, StringLength = 0;
+			int count = 0; 
 			string compressedString, tempString;
 
 			for (int i = 0; i < s1.size(); i++)
@@ -27,7 +27,6 @@ class StringCompress
 					compressedString = compressedString + tempString + to_string(count);
 					count = 0;
 					tempString = "";
-					StringLength = StringLength + 2;
 				}
 
 				if (compressedString.size() > s1.size())
