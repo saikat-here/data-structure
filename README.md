@@ -46,3 +46,6 @@ https://www.youtube.com/watch?v=mFY0J5W8Udk
 https://www.youtube.com/watch?v=NobHlGUjV3g
 
 ### Example Problems and Solutions :
+
+#### 2.1: Remove duplicate values from a unsorted linked list.
+
