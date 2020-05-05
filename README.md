@@ -39,3 +39,10 @@ https://www.youtube.com/watch?v=mFY0J5W8Udk
 [Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-6.py)
 
 [CPP Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/hash_table/1-6.cpp)
+
+
+# 2. Linked List
+### Explanation
+https://www.youtube.com/watch?v=NobHlGUjV3g
+
+### Example Problems and Solutions :
