@@ -49,3 +49,6 @@ https://www.youtube.com/watch?v=NobHlGUjV3g
 
 #### 2.1: Remove duplicate values from a unsorted linked list.
 
+[Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/linked_list/2.1.py)
+
+
