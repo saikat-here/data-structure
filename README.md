@@ -1,4 +1,4 @@
-Feedback / Suggestion : saikat.sinharay@gmail.com
+Feedback / Suggestion / Bug reporting: saikat.sinharay@gmail.com
 
 # 1. Hash Table & String
 ### Explanation
