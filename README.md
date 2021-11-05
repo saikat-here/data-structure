@@ -51,4 +51,6 @@ https://www.youtube.com/watch?v=NobHlGUjV3g
 
 [Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/linked_list/2.1.py)
 
+#### 2.2: Implement an algo to find the Kth to last element of a singly linked list.
 
+[Python Solution](https://github.com/saikat-here/data-structure/blob/master/solutions/linked_list/2.2.py)
